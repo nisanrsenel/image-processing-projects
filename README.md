@@ -32,4 +32,4 @@ Haar Cascade Object Detection
 
 YOLO Object Detection
 -Test videos using trained YOLO models.
--Scripts: yolo.py - yolo_test_application.py 
+-Scripts: yolo.py - yolo_test_application.py

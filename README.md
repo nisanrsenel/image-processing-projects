@@ -15,7 +15,6 @@ cd image-processing-projects
 ```bash
 pip install opencv-python numpy
 pip install ultralytics  # for YOLOv8 projects
-pip install roboflow      # if using Roboflow datasets
 ```
 
 Basic Steps
